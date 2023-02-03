@@ -1,31 +1,43 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "junyamane 1"
-    },
-    {
-      "id": 2,
-      "title": "junyamane 2"
-    },
-    {
-      "id": 3,
-      "title": "junyamane 3"
+  "information": {
+    "published_at": 1673535705,
+    "informations": [
+        {
+            "type": 1,
+            "start_at": 1673535611,
+            "end_at": 1673635611,
+            "title": "メンテナンスタイプお知らせテスト",
+            "body": "メンテナンスタイプお知らせテストの本文です。"
+        },
+        {
+            "type": 2,
+            "start_at": 1673535611,
+            "end_at": 1673635611,
+            "title": "イベントタイプお知らせテスト",
+            "body": "イベントタイプお知らせテストの本文です。"
+        },
+        {
+            "type": 3,
+            "start_at": 1673535611,
+            "end_at": 1673635611,
+            "title": "不具合タイプお知らせテスト",
+            "body": "不具合タイプお知らせテストの本文です。"
+        },
+        {
+            "type": 4,
+            "start_at": 1674921783,
+            "end_at": 1675436400,
+            "title": "０１２３４５６７８９０１２３４５６７８９abcdefghijklmnopqrstuvwxyz０１２３４５６７８９０１２３４５６７８９",
+            "body": "本文１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１１"
+        }
+    ]
+  },
+  "maintenance": {
+    "published_at": 1673535705,
+    "maintenance": {
+        "status": 0,
+        "start_at": null,
+        "end_at": null
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
