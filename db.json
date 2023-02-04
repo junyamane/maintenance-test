@@ -35,9 +35,9 @@
   "maintenance": {
     "published_at": 1673535705,
     "maintenance": {
-        "status": 9,
+        "status": 0,
         "start_at": 1675319876,
-        "end_at": 1675691538
+        "end_at": 1675519100
     }
   }
 }
