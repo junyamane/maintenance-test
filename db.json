@@ -47,11 +47,11 @@
     ]
   },
   "maintenance": {
-    "published_at": 1673535705,
+    "published_at": 1679546023,
     "maintenance": {
-        "status": 9,
-        "start_at": 1689062758,
-        "end_at": 1689865200
+      "status": 0,
+      "start_at": 1724324400,
+      "end_at": 1724331599
     }
   }
 }
